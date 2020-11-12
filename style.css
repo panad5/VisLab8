@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    } 
+
+.x-axis{
+    font-size: 11px;    
+    }
+
+.y-axis{
+    font-size: 11px;    
+    }
+
+h1{
+    margin-top: 40px;
+}
+
+.path{ 
+	stroke: #333;
+	shape-rendering: crispEdges;
+}
+
+.xaxis{
+font-weight: bold;
+}
+
+.yaxis{
+    font-weight: bold;
+    }
